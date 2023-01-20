@@ -21,6 +21,14 @@ PROVIDERSV4="
 156.154.70.3#neustar 
 8.26.56.26#comodo
 45.90.28.202#nextdns
+223.5.5.5#阿里
+180.76.76.76#百度
+119.29.29.29#dnspod
+1.2.4.8#CNNIC
+117.50.11.11#onedns
+101.226.4.6#dns派
+185.222.222.222#DNS.SB
+199.91.73.222#V2EX
 "
 
 PROVIDERSV6="
@@ -64,7 +72,7 @@ fi
     
 
 # Domains to test. Duplicated domains are ok
-DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
+DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com store.steampowered.com"
 
 
 totaldomains=0
